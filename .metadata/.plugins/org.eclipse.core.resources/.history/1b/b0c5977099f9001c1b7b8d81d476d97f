@@ -1,0 +1,14 @@
+package com.backend.drunkknight.service.implement;
+
+import com.backend.drunkknight.dto.CardDto;
+import com.backend.drunkknight.service.CardService;
+
+public class CardServiceImplement implements CardService {
+
+	@Override
+	public CardDto createCard(CardDto card) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

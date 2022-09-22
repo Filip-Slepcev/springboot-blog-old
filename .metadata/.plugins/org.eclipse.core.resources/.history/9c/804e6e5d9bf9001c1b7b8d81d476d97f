@@ -1,0 +1,25 @@
+package com.backend.drunkknight.service.implement;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.backend.drunkknight.dto.CardDto;
+import com.backend.drunkknight.entity.CardEntity;
+import com.backend.drunkknight.repository.CardRepository;
+import com.backend.drunkknight.service.CardService;
+
+@Service
+public class CardServiceImplement implements CardService {
+
+	@Autowired
+	CardRepository cardRepository;
+	
+	
+	@Override
+	public CardDto createCard(CardDto card) {
+		
+		CardEntity returnValue = new CardEntity();
+		return null;
+	}
+
+}

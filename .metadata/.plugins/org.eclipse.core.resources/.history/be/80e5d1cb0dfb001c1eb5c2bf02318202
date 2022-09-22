@@ -1,0 +1,9 @@
+spring.h2.console.enabled=true
+spring.datasource.username=	epiz_32094337
+spring.datasource.password=bil@fildrunkknightapp
+spring.datasource.url=jdbc:mysql://sql213.epizy.com:3306/epiz_32094337_drunk_knight_app
+spring.jpa.hibernate.ddl-auto=update
+server.error.include-message=always
+#spring.datasource.username=root
+#spring.datasource.password=test123
+#spring.datasource.url=jdbc:mysql://localhost:3306/drunk_knight_app

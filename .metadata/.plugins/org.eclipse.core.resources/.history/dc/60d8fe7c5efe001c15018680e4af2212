@@ -1,0 +1,77 @@
+package com.backend.drunkknight.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Document("cards")
+public class CardEntity {
+	
+}
+
+
+//@Entity(name="cards")
+//public class CardEntity implements Serializable {
+//
+//	private static final long serialVersionUID = -2030978946586810776L;
+//
+//	@Id
+//	@GeneratedValue
+//	private long id;
+//
+//	@Column(nullable=false)
+//	private String cardId;
+//	
+//	@Column(nullable=false)
+//	private String type;
+//	
+//	@Column(nullable=false)
+//	private String name;
+//	
+//	@Column(nullable=false)
+//	private String description;
+//	
+//	
+//	public long getId() {
+//		return id;
+//	}
+//
+//	public void setId(long id) {
+//		this.id = id;
+//	}
+//	
+//	public String getCardId() {
+//		return cardId;
+//	}
+//
+//	public void setCardId(String cardId) {
+//		this.cardId = cardId;
+//	}
+//
+//	public String getType() {
+//		return type;
+//	}
+//
+//	public void setType(String type) {
+//		this.type = type;
+//	}
+//
+//	public String getName() {
+//		return name;
+//	}
+//
+//	public void setName(String name) {
+//		this.name = name;
+//	}
+//
+//	public String getDescription() {
+//		return description;
+//	}
+//
+//	public void setDescription(String description) {
+//		this.description = description;
+//	}
+//}

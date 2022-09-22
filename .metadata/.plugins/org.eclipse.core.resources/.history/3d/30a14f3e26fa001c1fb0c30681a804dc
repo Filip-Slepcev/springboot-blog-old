@@ -1,0 +1,47 @@
+package com.backend.drunkknight.dto;
+
+import java.io.Serializable;
+
+public class CardDto implements Serializable{
+
+	private static final long serialVersionUID = 553567815781193934L;
+	private Long id;
+	private String cardId;
+	private String type;
+	private String name;
+	private String description;
+	
+	
+	public Long getId() {
+		return id;
+	}
+	public void setId(Long id) {
+		this.id = id;
+	}
+	public String getCardId() {
+		return cardId;
+	}
+	public void setCardId(String cardId) {
+		this.cardId = cardId;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getDescription() {
+		return description;
+	}
+	public void setDescription(String description) {
+		this.description = description;
+	}
+	
+	
+}

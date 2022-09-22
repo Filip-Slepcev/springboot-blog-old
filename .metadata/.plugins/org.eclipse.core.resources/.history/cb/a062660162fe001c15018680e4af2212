@@ -1,0 +1,7 @@
+spring.h2.console.enabled=true
+spring.data.mongodb.uri=mongodb+srv://root:filandbill@drunkknight.ozfxuae.mongodb.net/drunk_knight
+server.error.include-message=always
+#spring.jpa.hibernate.ddl-auto=update
+#spring.datasource.username=root
+#spring.datasource.password=test123
+#spring.datasource.url=jdbc:mysql://localhost:3306/drunk_knight_app
