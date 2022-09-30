@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=mobile-app-ws/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.appsdeveloperblog.app.ws.service{UserService.java[UserService" modifiers="513" timestamp="1655225509760"/>
-    <typeInfo handle="=drunk-knight/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.backend.drunkknight.service{CardService.java[CardService" modifiers="513" timestamp="1656719609978"/>
-    <typeInfo handle="=drunk-knight/C:\/Users\/Filip\/Desktop\/sts-4.15.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1656204587847"/>
-    <typeInfo handle="=drunk-knight/C:\/Users\/Filip\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.7.1\/spring-data-commons-2.7.1.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.7.1=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1656716404436"/>
-</typeInfoHistroy>

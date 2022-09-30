@@ -1,9 +1,0 @@
-spring.h2.console.enabled=true
-#spring.datasource.username=sql5503809
-#spring.datasource.password=sFq7NScATg
-#spring.datasource.url=jdbc:mysql://sql5.freesqldatabase.com:3306/sql5503809
-spring.jpa.hibernate.ddl-auto=update
-server.error.include-message=always
-spring.datasource.username=root
-spring.datasource.password=test123
-spring.datasource.url=jdbc:mysql://localhost:3306/drunk_knight_app
